@@ -1,0 +1,9 @@
+{
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Content-Type": "application/json",
+    "X-Goog-AuthUser": "0",
+    "x-origin": "https://music.youtube.com",
+    "Cookie" : "PREF=f6=80080&tz=Asia.Tokyo&library_tab_browse_id=FEmusic_liked_playlists&f5=30000&f4=4000000; YSC=UuCBpfBGmhE; VISITOR_INFO1_LIVE=177BpMrICsw; SID=QQi71uu9TLP-jo40sIYeC8VLE-x5gxwK9sNCPC7ZicfNIMQ0JUeZnr8ZamooYNe5iMWVlA.; __Secure-1PSID=QQi71uu9TLP-jo40sIYeC8VLE-x5gxwK9sNCPC7ZicfNIMQ0e6V3OQNalv2uH9Rz-igceA.; __Secure-3PSID=QQi71uu9TLP-jo40sIYeC8VLE-x5gxwK9sNCPC7ZicfNIMQ06zJbt8JSTFF3Cy08tsEGSw.; HSID=AU3HByGeERW5HFYNL; SSID=ATxbKp4AtF9OOSpwS; APISID=TKhxZnjNpRiCywrF/ARx7_My84FUnSUo60; SAPISID=7UdlXwAPdat7t9Ae/A57uAgh27oH8BBhE5; __Secure-1PAPISID=7UdlXwAPdat7t9Ae/A57uAgh27oH8BBhE5; __Secure-3PAPISID=7UdlXwAPdat7t9Ae/A57uAgh27oH8BBhE5; LOGIN_INFO=AFmmF2swRgIhAOdqidkMuzqvARkiO7HUiavoy-bfWS-zIEqyTnGkc8IgAiEAms1Oszw6xK7bunqHU4eTG-2oxkVxEUtcCigw025CSdQ:QUQ3MjNmd2ZEZ3pDcXdzeUJoRndCdlVYRkhGOTJlYTJiMHE3bkxIdXJ0eVpsYS1rMHFURmZvdEcwcnluZVZsS0M0dDFYWEx3ei1tSlBWcUdNWV9XNXB1VHZqTUUxdkVsZVN2b0g3SlR5YVpEUHg4MTE0YVRDMmpyZEpwMnBwc0JFd2FpeEpYTHZIX0lOSXlqNDFJUVlVZmtiUHhCbUFRSXJ3; _gcl_au=1.1.366082653.1667463661; ST-1b=; SIDCC=AIKkIs118l19F_PCkl_lLIEYek6DOzvSm2TMbHl0UrZVGw9GXMgYxDmEIY0t684C2rB6tPZP; __Secure-1PSIDCC=AIKkIs1lI7TI9rUHDwECzn6tPqiKTv6E7cuiP9g53VAXwz_TYrChYLUMB32Uc3KaBprHWr6d; __Secure-3PSIDCC=AIKkIs1V7Q7vz8zclCOKEcpuWyJoOwrWA3KUsl38RtanMNBaI1iu2Bpb2fjAbavMdHVo34-p"
+}
